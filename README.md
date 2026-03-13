@@ -1,5 +1,7 @@
 # Bilinear Matrix Periodic Systems — Controllability (MATLAB Codes)
 
+Reproducible Research | MATLAB Implementation | Numerical Verification
+
 This repository contains the MATLAB scripts used to reproduce the numerical experiments reported in the research paper
 
 **“Equivalence of Hewer and Kalman Controllability for Generalised Bilinear Matrix Periodic Systems.”**
