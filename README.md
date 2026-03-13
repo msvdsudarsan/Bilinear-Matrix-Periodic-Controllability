@@ -1,4 +1,4 @@
-## Bilinear Matrix Periodic Systems — Controllability (MATLAB Codes)
+# Bilinear Matrix Periodic Systems — Controllability (MATLAB Codes)
 
 Reproducible Research | MATLAB Implementation | Numerical Verification
 
