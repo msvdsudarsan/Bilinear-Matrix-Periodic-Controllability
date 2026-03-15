@@ -12,7 +12,7 @@
 %    Fig3_Ctrl_ScalingStudy.pdf
 %    Fig4_Ctrl_StepSizeSensitivity.pdf
 %
-%  Run AFTER Supp_Paper1_Controllability_v3.m  (uses its workspace)
+%  Run AFTER Paper1_Controllability_Verification.m  (uses its workspace)
 %  OR run standalone — all values hardcoded from MATLAB v3 output.
 %  ================================================================
 
