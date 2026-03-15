@@ -1,5 +1,5 @@
 %% ================================================================
-%  Supplementary MATLAB Code — Paper 1 (Controllability)  v3
+%  Supplementary MATLAB Code — Paper 1 (Controllability)  
 %  ----------------------------------------------------------------
 %  "Equivalence of Hewer and Kalman Controllability for Generalised
 %   Bilinear Matrix Periodic Systems"
@@ -16,7 +16,7 @@
 %  ================================================================
 
 clear; clc; close all;
-fprintf('=== Paper 1 Controllability v3: Numerical Verification ===\n\n');
+fprintf('=== Paper 1 Controllability : Numerical Verification ===\n\n');
 
 %% ----------------------------------------------------------------
 %  SECTION 1 — SYSTEM DEFINITION
