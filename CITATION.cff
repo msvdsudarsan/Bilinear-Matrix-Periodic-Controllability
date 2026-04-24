@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper as below."
+authors:
+  - family-names: Madhyannapu
+    given-names: Sri Venkata Durga Sudarsan
+    orcid: "https://orcid.org/0009-0001-2126-6428"
+    affiliation: >-
+      Freshmen Engineering Department, Dr. RVR NRI Institute of Technology
+      (Deemed to be University), Pothavarappadu, Agiripalli,
+      Eluru District 521212, Andhra Pradesh, India
+    email: msvdsudarsan@gmail.com
+  - family-names: Pradheep Kumar
+    given-names: Sravanam
+    affiliation: >-
+      School of Basic Sciences, SRM University AP,
+      Neerukonda, Mangalagiri, Guntur 522240, Andhra Pradesh, India
+    email: sravanampradheepkumar@gmail.com
+title: >-
+  Bilinear-Matrix-Periodic-Controllability: MATLAB codes for
+  Kalman-Hewer Controllability Equivalence for Generalized Bilinear
+  Matrix Periodic Systems
+version: 1.0.0
+date-released: "2026-04-24"
+url: "https://github.com/msvdsudarsan/Bilinear-Matrix-Periodic-Controllability"
+repository-code: "https://github.com/msvdsudarsan/Bilinear-Matrix-Periodic-Controllability"
+license: MIT
+keywords:
+  - generalized bilinear systems
+  - matrix periodic systems
+  - Kalman-Hewer controllability
+  - minimal polynomial
+  - non-factorizable monodromy
+  - Kronecker-free algorithm
+  - controllability Gramian
+  - MATLAB
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Madhyannapu
+      given-names: Sri Venkata Durga Sudarsan
+      orcid: "https://orcid.org/0009-0001-2126-6428"
+    - family-names: Pradheep Kumar
+      given-names: Sravanam
+  title: >-
+    Kalman-Hewer Controllability Equivalence for Generalized
+    Bilinear Matrix Periodic Systems
+  journal: Mathematics of Control, Signals, and Systems
+  publisher: Springer
+  year: 2026
+  notes: Submitted April 2026
