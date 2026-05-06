@@ -1,16 +1,16 @@
 # Bilinear-Matrix-Periodic-Controllability
 
-## Kalman–Hewer Controllability Equivalence for Generalized Bilinear Matrix Periodic Systems
+## Kalman–Hewer Controllability Equivalence for Generalized Bilinear Matrix Periodic Systems with Non-Factorizable Monodromy
 
 **Authors:** Sri Venkata Durga Sudarsan Madhyannapu¹ and Sravanam Pradheep Kumar²
 
-¹ Freshmen Engineering Department, Dr. RVR NRI Institute of Technology (Deemed to be University), Pothavarappadu, Agiripalli, Eluru District 521212, Andhra Pradesh, India. Email: msvdsudarsan@gmail.com · ORCID: 0009-0001-2126-6428
+¹ Department of Mathematics, School of Sciences, Humanities, and Management, Dr. RVR NRI Institute of Technology (Deemed to be University), Pothavarappadu Village, Agiripalli Mandal 521212, Andhra Pradesh, India. Email: msvdsudarsan@gmail.com · ORCID: 0009-0001-2126-6428
 
 ² School of Basic Sciences, SRM University AP, Neerukonda, Mangalagiri, Guntur 522240, Andhra Pradesh, India. Email: sravanampradheepkumar@gmail.com
 
 **Target Journal:** Mathematics of Control, Signals, and Systems (MCSS, Springer) · Q1 · SCI/SCIE · Hybrid (no mandatory APC)
 
-**Status:** Submitted, April 2026
+**Status:** Submitted, May 2026
 
 ---
 
@@ -121,13 +121,13 @@ Note: n=4 (lifted dimension 16) requires >5 GB RAM for classical Kronecker appro
 
 **Step 1: Run main verification script**
 ```matlab
-run('Paper1_Controllability_Verification.m')
+run('Controllability_Verification.m')
 ```
 Prints: eigenvalues of M, non-factorizability norm, minimal polynomial degree k, Gramian statistics (Tables 1–3), minimum-energy J*, and H-controllability confirmation.
 
 **Step 2: Generate all four figures**
 ```matlab
-run('Paper1_Figure_Generation.m')
+run('Figure_Generation.m')
 ```
 Produces: `Fig1_Ctrl_EigModuli.pdf`, `Fig2_Ctrl_GramianSpectrum.pdf`, `Fig3_Ctrl_ScalingStudy.pdf`, `Fig4_Ctrl_StepSizeSensitivity.pdf`
 
@@ -228,11 +228,11 @@ Each level adds structural complexity:
   author  = {Madhyannapu, Sri Venkata Durga Sudarsan and
              {Pradheep Kumar}, Sravanam},
   title   = {{Kalman--Hewer} Controllability Equivalence for
-             Generalized Bilinear Matrix Periodic Systems},
+             Generalized Bilinear Matrix Periodic Systems with Non-Factorizable Monodromy},
   journal = {Mathematics of Control, Signals, and Systems},
   year    = {2026},
   publisher = {Springer},
-  note    = {Submitted April 2026}
+  note    = {Submitted May 2026}
 }
 ```
 
