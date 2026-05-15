@@ -1,6 +1,7 @@
 # Bilinear-Matrix-Periodic-Controllability
 
 ## Kalman–Hewer Controllability Equivalence for Generalized Bilinear Matrix Periodic Systems with Non-Factorizable Monodromy
+DOI: https://doi.org/10.5281/zenodo.20196753
 
 **Authors:** Sri Venkata Durga Sudarsan Madhyannapu¹ and Sravanam Pradheep Kumar²
 
